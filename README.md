@@ -1,2 +1,1 @@
-# google
-Verify
+MS=6BF03E6AF5CB689E315FB6199603BABF2C88D805 MS=ms44452932 MS=ms58704441 docusign=087098e3-3d46-47b7-9b4e-8a23028154cd v=spf1 ip4:192.30.252.0/22 ip4:208.74.204.0/22 ip4:46.19.168.0/23 include:_spf.google.com include:esp.github.com include:_spf.createsend.com include:servers.mcsv.net ~all
